@@ -1,0 +1,2 @@
+# devopsaulaconflito
+resolvendo as coisas
